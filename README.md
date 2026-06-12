@@ -1,133 +1,135 @@
-☕ Coffee Shop Sales Analysis
-📥 Download PBIX:
-[Coffee_Shop_Sales.pbix](PowerBI/Coffee_Shop_Sales.pbix)
+# ☕ Coffee Shop Sales Analysis
+
+> Six months of transactional data from three NYC locations — transformed into operational intelligence for staffing, inventory, and revenue decisions.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Data%20Source-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+
+---
+
+## Overview
+
+This project analyzes sales data across three New York City coffee shop locations to surface insights about customer behavior, product performance, and revenue trends. The goal is to give management a single, reliable view of what's happening — and what to do about it.
+
+The deliverable is an interactive Power BI dashboard that turns raw transaction records into decisions around staffing, inventory, and promotional strategy.
+
+---
+
+## Business Problem
+
+Coffee shop operators make daily decisions about staffing, stocking, and promotions — often without clear visibility into the numbers driving those decisions. The result:
+
+- Understaffing during peak demand windows
+- Overstock on low-performing products
+- Missed revenue opportunities
+- Inefficient resource allocation across locations
+
+This analysis was built to close that visibility gap.
+
+---
+
+## Key Questions Answered
+
+| Area | Question |
+|---|---|
+| **Customer Behavior** | When are customers most likely to visit? Are there identifiable peak periods? |
+| **Product Performance** | Which products drive revenue? Which categories underperform? |
+| **Store Performance** | How do locations compare? Are growth trends consistent? |
+| **Revenue Optimization** | Where are the highest-leverage opportunities to grow sales? |
+
+---
+
+## Key Findings
+
+### 🌅 Morning Hours Drive the Business
+Traffic is heavily concentrated in morning hours, driven largely by commuters and routine daily habits. Peak congestion raises wait times and puts pressure on staff during the highest-volume window.
+
+**Recommended actions:**
+- Increase staffing during morning rush
+- Streamline ordering workflows
+- Evaluate mobile or pre-order options
+
+---
+
+### 💰 Revenue Concentrates in Core Beverages
+A small number of beverage products account for the majority of revenue across all three locations. Consistency and availability of these items is a direct revenue risk.
+
+**Recommended actions:**
+- Center inventory planning around top-selling beverages
+- Use high-performers as anchors for promotional campaigns
+- Build complementary offerings around proven sellers
+
+---
+
+### 📦 Retail Products Underperform
+Coffee beans, loose teas, and packaged chocolate occupy shelf space and inventory budget while contributing a small fraction of total revenue.
+
+**Recommended actions:**
+- Test bundled promotions with beverage purchases
+- Improve in-store product visibility
+- Experiment with pricing and promotional strategies
+
+---
+
+### 📈 Trends Indicate Continued Growth Potential
+Transaction volume and revenue remained healthy throughout the reporting period, pointing to stable demand across locations — a foundation for optimization rather than recovery.
+
+**Recommended actions:**
+- Continue monitoring growth trends over time
+- Develop targeted promotions during slower periods
+- Track product-level performance on an ongoing basis
+
+---
+
+## Dashboard
+
+The Power BI dashboard consolidates transactional data into an interactive reporting view covering:
+
+- Sales performance by location
+- Peak customer traffic periods
+- Product category comparisons
+- Revenue trend analysis
+- Operational improvement opportunities
+
+**Power BI**
+![Coffee_BI_Dashboard.bmp](https://github.com/user-attachments/files/28890005/Coffee_BI_Dashboard.bmp)
 
 
-
-Executive Summary
-
-This project analyzes six months of transactional sales data from three New York City coffee shop locations to identify customer purchasing behavior, operational trends, and revenue growth opportunities.
-
-The analysis was conducted to help management better understand when customers visit, which products drive revenue, and where opportunities exist to improve operational efficiency and sales performance.
-
-The resulting dashboard provides decision-makers with a centralized view of store performance, customer traffic patterns, and product-level trends.
-
-Business Problem
-
-Coffee shop operators must balance staffing, inventory management, and product strategy while maintaining a positive customer experience.
-
-Without visibility into customer behavior and sales trends, management risks:
-
-Understaffing during peak demand periods
-Overstocking low-performing inventory
-Missing opportunities to increase revenue
-Inefficient allocation of resources across locations
-
-This analysis was developed to identify actionable insights that support operational and strategic decision-making.
-
-Analysis Objectives
-
-The project focused on answering several key business questions:
-
-Customer Behavior
-When are customers most likely to visit?
-Are there identifiable peak traffic periods?
-Product Performance
-Which products contribute most to overall revenue?
-Which categories underperform relative to others?
-Store Performance
-How do locations compare?
-Are growth trends consistent across stores?
-Revenue Optimization
-What opportunities exist to increase sales?
-Which operational adjustments could improve performance?
-Key Findings
-Morning Hours Drive Customer Demand
-
-Customer traffic is heavily concentrated during morning hours, suggesting that purchasing behavior is largely driven by commuters and routine daily visits.
-
-Business Impact
-
-Peak-hour congestion may increase customer wait times and place additional pressure on staff during the busiest operating periods.
-
-Recommendation
-Increase staffing during morning rush periods
-Simplify ordering workflows
-Evaluate mobile ordering or pre-order options
-Revenue Is Concentrated Among Core Beverage Products
-
-A relatively small number of beverage products generate the majority of sales revenue across all locations.
-
-Business Impact
-
-Revenue dependence on a limited group of products highlights the importance of maintaining inventory availability and product consistency.
-
-Recommendation
-Prioritize inventory planning around top-selling beverages
-Use best-selling products as anchors for promotional campaigns
-Expand complementary offerings around high-performing items
-Retail Products Underperform
-
-Coffee beans, loose teas, and packaged chocolate products generated significantly lower sales volumes compared to beverage categories.
-
-Business Impact
-
-These products occupy shelf space and inventory resources while contributing a relatively small portion of total revenue.
-
-Recommendation
-Introduce bundled promotions with beverage purchases
-Improve in-store visibility of retail products
-Test pricing and promotional strategies to increase sales
-Sales Trends Suggest Continued Growth Potential
-
-Transaction volume and revenue trends remained healthy throughout the reporting period, indicating consistent customer demand across locations.
-
-Business Impact
-
-Stable demand provides opportunities to focus on operational optimization and incremental revenue growth rather than customer acquisition alone.
-
-Recommendation
-Continue monitoring growth trends
-Develop targeted promotions during slower periods
-Track product-level performance over time
-Dashboard Overview
-
-The dashboard was developed to provide management with an interactive view of key performance indicators and operational trends.
-
-The dashboard enables users to:
-
-Monitor sales performance across locations
-Identify peak customer traffic periods
-Compare product category performance
-Analyze revenue trends
-Evaluate opportunities for operational improvements
-Dashboard Preview
-Executive Dashboard
-
-Power BI Dashboard
-![Coffee_BI_Dashboard.bmp](https://github.com/user-attachments/files/28889306/Coffee_BI_Dashboard.bmp)
-
-Excel Dashboard
-![Coffee_Excel_Dashboard.bmp](https://github.com/user-attachments/files/28889538/Coffee_Excel_Dashboard.bmp)
+**Excel**
+![Coffee_Excel_Dashboard.bmp](https://github.com/user-attachments/files/28889992/Coffee_Excel_Dashboard.bmp)
 
 
-The dashboard consolidates transactional data into a single reporting view that supports operational planning and strategic decision-making.
+---
 
-Business Value
+## Project Workflow
 
-This analysis demonstrates how transactional sales data can be transformed into actionable business intelligence.
+```
+Raw Transaction Data (Excel)
+        ↓
+  Data Cleaning & Prep
+        ↓
+  Exploratory Analysis
+        ↓
+  DAX Measures & KPIs
+        ↓
+  Power BI Dashboard
+        ↓
+  Business Recommendations
+```
 
-By identifying customer traffic patterns, product performance trends, and revenue opportunities, management can make more informed decisions regarding staffing, inventory allocation, promotions, and overall store operations.
+---
 
-The project reflects a typical business analytics workflow: transforming raw data into insights that support measurable business outcomes.
+## Tools Used
 
-Future Analysis Opportunities
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Source data |
+| Power BI Desktop | Dashboard development |
+| DAX | Calculated measures and KPIs |
 
-Potential future enhancements include:
+---
 
-Profitability analysis by product category
-Customer segmentation
-Revenue forecasting
-Year-over-year trend comparisons
-Automated reporting through Power BI
-Customer retention and loyalty analysis
+## About
+
+This project reflects a standard business analytics workflow: raw data → cleaned dataset → insight generation → actionable recommendations. It was developed as a portfolio piece demonstrating end-to-end analysis using Excel and Power BI.
